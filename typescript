@@ -1,0 +1,51 @@
+Script started on Tue 24 Mar 2015 10:08:22 PM PDT
+]0;rheck@ubuntu: ~/cs202/project7rheck@ubuntu:~/cs202/project7$ ./project7
+zero: 
+base:  0
+height:  0
+area:  0
+
+basic: 
+base:  5
+height:  10
+area:  25
+
+zero and basic are different
+
+zero after assignment: 
+base:  5
+height:  10
+area:  25
+
+basic2 using copy constructor: 
+base:  5
+height:  10
+area:  25
+
+sum = zero + basic: 
+base:  10
+height:  20
+area:  100
+
+triangle 1: 
+base:  1
+height:  2
+area:  1
+
+triangle 2: 
+base:  3
+height:  4
+area:  6
+
+triangle 3: 
+base:  5
+height:  6
+area:  15
+
+triangle 4: 
+base:  7
+height:  8
+area:  28
+
+]0;rheck@ubuntu: ~/cs202/project7rheck@ubuntu:~/cs202/project7$ exit
+Script done on Tue 24 Mar 2015 10:08:29 PM PDT
